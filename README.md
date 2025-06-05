@@ -3,6 +3,11 @@
 Este projeto contém uma função Lambda escrita em **Python**, que retorna uma saudação personalizada com base no parâmetro `nome` recebido pela URL. A função está integrada ao **API Gateway**, tornando-a acessível via requisição HTTP pública.
 
 ---
+## 🟧Link da Lambda:
+
+https://xlzcqepdwdjcz3h6ibmpt4i4jy0byqqx.lambda-url.us-east-2.on.aws/
+
+---
 
 ## 📌 Objetivo
 
